@@ -1,0 +1,23 @@
+{
+  "name": "refactoring",
+  "version": "1.0.0",
+  "description": "strudy refactoring",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceau/refactoring.git"
+  },
+  "author": "zio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ceau/refactoring/issues"
+  },
+  "homepage": "https://github.com/ceau/refactoring#readme"
+}
